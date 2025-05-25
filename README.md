@@ -59,7 +59,6 @@ Or just:
 - `llama-server` compiled and available at `~/llama.cpp/build/bin/llama-server`
 - One or more `.gguf` models in `~/llm_models`
 - `nvidia-smi` available in `PATH` (for GPU VRAM detection)
-- Bash shell (recommended: run on Linux)
 
 ## 💡 Tips
 
