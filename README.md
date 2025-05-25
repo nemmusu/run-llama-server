@@ -1,6 +1,6 @@
 # 🧠 llama-server-launcher
 
-This is a Bash script to automatically launch `llama-server` (from [llama.cpp](https://github.com/ggerganov/llama.cpp)), detects available .gguf models, and selects GPU layers based on your free VRAM.
+This is a Bash script to automatically launch `llama-server` (from [llama.cpp](https://github.com/ggerganov/llama.cpp)), detect available .gguf models, and selects GPU layers based on your free VRAM (NVIDIA GPUs only).
 
 ## 🚀 Features
 
